@@ -1,0 +1,10 @@
+rootProject.name = "Notifications"
+include ':app'
+include ':p0184notificationsintro'
+include ':p0184notificationwithprogressbar'
+include ':p0185mailapplication'
+include ':p0186extendednotifications'
+include ':p0187actionandreply'
+include ':p0188customnotifications'
+include ':p0189notificationgroup'
+include ':p0190notificationchannels'
